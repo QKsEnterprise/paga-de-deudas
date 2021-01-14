@@ -10,7 +10,7 @@ console.log(Jonh);
 Jonh = 10000
 
 
-//Funcion para sumar
+//Funcion para restar
 
 
 function add (x1, x2) { 
@@ -20,8 +20,10 @@ function add (x1, x2) {
 
 //cobra la deuda
 
-console.log('depositite : $10000 Now you have :')
+console.log('You have $90.000')
 
-	console.log(add(500000, 10000));
+console.log('depositite : $10000, Now you have :')
+
+	console.log(add(90000, 10000));
 
  		let addition = Jonh + add;
